@@ -1,0 +1,50 @@
+.navbar.navbar-light {
+  background-color: #4a2f80;
+}
+
+.navbar.navbar-light div a {
+  color: azure;
+  margin-left: 50px;
+}
+
+.navbar.navbar-light .d-none.d-sm-inline-block.form-inline.mr-auto.ml-md-3.my-2.my-md-0.mw-100.navbar-search {
+  margin-left: 80px;
+  border-radius: 10px;
+}
+
+.searchbar {
+  margin-left: 80px;
+  border-radius: 10px;
+  top: 50px;
+}
+
+.search_input {
+  margin-left: 70px;
+  border-radius: 10px;
+}
+
+.fa-sign-out {
+  color: azure;
+}
+
+.input-group {
+  width: 100%;
+}
+
+.fa-search {
+  color: azure;
+  margin-left: 200px;
+  top: -18px;
+  position: relative;
+}
+
+.last {
+  margin: 0 auto;
+  margin-right: 300px;
+}
+
+.sricon {
+  margin-left: 0px;
+  top: 0px;
+}
+/*# sourceMappingURL=style.css.map */
